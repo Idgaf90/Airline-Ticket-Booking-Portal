@@ -1,5 +1,3 @@
- SOURCE CODE  
-1.  
 from pymysql import *  
 import sys  
 host='127.0.0.1'  
